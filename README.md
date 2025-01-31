@@ -12,12 +12,12 @@ This project focuses on building a pipeline to extract **news headlines** and th
 - **Data for Image Captioning**: This pipeline creates a dataset with news article headlines and their corresponding image thumbnails, perfect for **image captioning** tasks.
 
 ## **📂 Project Structure**
-│── 📜 Module1.py        # Scrapes the homepage for initial URLs
-│── 📜 Module2.py        # Extracts top stories from the scraped URLs
-│── 📜 Module3.py        # Extracts headlines and thumbnails
-│── 📜 Module4.py        # Handles database interactions (tables, insertions)
-│── 📜 Module5.py        # Checks for duplicate headlines before inserting
-│── 📜 Module6.py        # Orchestrates all modules, logs execution
-│── 📜 config.txt        # configuration file
-│── 📜 README.md         # Project documentation
-└── 📜 pipeline.log      # Logs execution details
+- 📜 Module1.py        # Scrapes the homepage for initial URLs
+- 📜 Module2.py        # Extracts top stories from the scraped URLs
+- 📜 Module3.py        # Extracts headlines and thumbnails
+- 📜 Module4.py        # Handles database interactions (tables, insertions)
+- 📜 Module5.py        # Checks for duplicate headlines before inserting
+- 📜 Module6.py        # Orchestrates all modules, logs execution
+- 📜 config.txt        # configuration file
+- 📜 README.md         # Project documentation
+- 📜 pipeline.log      # Logs execution details
