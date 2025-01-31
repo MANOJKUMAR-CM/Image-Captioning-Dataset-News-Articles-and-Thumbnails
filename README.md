@@ -11,7 +11,7 @@ This project focuses on building a pipeline to extract **news headlines** and th
 - **Automation**: Easily configurable to run on a schedule using **CronJob**.  
 - **Data for Image Captioning**: This pipeline creates a dataset with news article headlines and their corresponding image thumbnails, perfect for **image captioning** tasks.
 
-📂 Project Structure
+## **📂 Project Structure**
 │── 📜 Module1.py        # Scrapes the homepage for initial URLs
 │── 📜 Module2.py        # Extracts top stories from the scraped URLs
 │── 📜 Module3.py        # Extracts headlines and thumbnails
