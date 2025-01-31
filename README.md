@@ -25,3 +25,12 @@ The project is organized into modules, each handling a specific task in the pipe
 
 ## **📈 Logs**
 The pipeline execution details, including timestamps and any errors, are logged into pipeline.log for easy tracking and debugging. You can view the log file to check the status of the pipeline execution, or to troubleshoot any issues.
+
+## 📧 Contact
+
+If you have questions, suggestions, or just want to connect, feel free to reach out!
+
+- **Name**: Manoj Kumar.CM  
+- **Email**: [manoj.kumar@dsai.iitm.ac.in]  
+- **GitHub Profile**: [Manoj Kumar C M](https://github.com/MANOJKUMAR-CM)
+
