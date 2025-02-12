@@ -22,6 +22,7 @@ The project is organized into modules, each handling a specific task in the pipe
 - 📜 config.txt        # configuration file
 - 📜 README.md         # Project documentation
 - 📜 pipeline.log      # Logs execution details
+- 📂 Airflow Automation # Automating all the scripts using Apache Airflow
 
 ## 📌 Pipeline Overview
 The image below illustrates the workflow of the image captioning dataset pipeline. It starts with web scraping to collect news headlines and thumbnails, followed by database storage, and concludes with logging and automation for smooth execution.
