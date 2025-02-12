@@ -29,7 +29,7 @@ The project is organized into modules, each handling a specific task in the pipe
 ## 📌 Pipeline Overview
 The image below illustrates the workflow of the image captioning dataset pipeline. It starts with web scraping to collect news headlines and thumbnails, followed by database storage, and concludes with logging and automation for smooth execution.
 
-## 📷 Pipeline Diagram: pipeline_diagram.png
+## 📷 Pipeline Diagram: check `pipeline_diagram.png`
 
 ## **📈 Logs**
 The pipeline execution details, including timestamps and any errors, are logged into pipeline.log for easy tracking and debugging. You can view the log file to check the status of the pipeline execution, or to troubleshoot any issues.
